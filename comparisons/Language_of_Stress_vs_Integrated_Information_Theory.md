@@ -1,6 +1,4 @@
-# Integrated Information Theory: Where We
-
-# Converge and Diverge
+# Integrated Information Theory: Where We Converge and Diverge
 
 ## Quick Summary
 

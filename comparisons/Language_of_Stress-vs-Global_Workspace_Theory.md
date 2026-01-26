@@ -1,6 +1,4 @@
-# Global Workspace Theory: Where We
-
-# Converge and Diverge
+# Global Workspace Theory: Where We Converge and Diverge
 
 ## Quick Summary
 
