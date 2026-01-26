@@ -2167,7 +2167,7 @@ I have no office and no staff. I am not paid to do this work. Any inquiry will b
 
 **Email**: josh@languageofstress.com
 
-**Website**: http://languageofstress.com
+**Website**: https://languageofstress.com
 
 **LinkedIn**: [Joshua Pace | LinkedIn](https://www.linkedin.com/in/joshua-pace)
 
