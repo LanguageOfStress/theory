@@ -1,3 +1,9 @@
+title: Example of the Language of Stress: The Sports Fan
+author: Joshua Craig Pace
+date: 01-26-2026
+
+
+
 # The Sports Fan: Unity of Consciousness
 
 # and Topographical Distortion

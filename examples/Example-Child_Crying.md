@@ -1,3 +1,9 @@
+title: Example of the Language of Stress: Your Child Crying
+author: Joshua Craig Pace
+date: 01-26-2026
+
+
+
 # The Faint Sound of Your Child Crying:
 
 # Self-Relevance and Attention

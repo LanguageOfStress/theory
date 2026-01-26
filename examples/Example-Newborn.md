@@ -1,3 +1,9 @@
+title: Example of the Language of Stress: The Newborn
+author: Joshua Craig Pace
+date: 01-26-2026
+
+
+
 # The Newborn and the Blanket
 
 **Situation:**
