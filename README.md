@@ -103,7 +103,7 @@ The Language of Stress makes falsifiable predictions distinguishing it from comp
 4. **Psychedelic efficacy correlates with rigidity reduction + ego dissolution**, not acute subjective intensity
 5. **AI consciousness requires specific architecture** (unified topography, defended self-model, variable rigidity), not just high complexity
 
-See [**Empirical Predictions**](predictions/empirical-tests.md) for full experimental designs.
+See [**Empirical Predictions**](predictions/Empirical_Predictions.md) for full experimental designs.
 
 ---
 
