@@ -1,4 +1,4 @@
-**The Language of Stress**
+# **The Language of Stress**
 
 ## **Empirical Claims and Predictions**
 
