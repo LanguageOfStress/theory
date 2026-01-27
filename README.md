@@ -1,7 +1,6 @@
 # The Language of Stress
 
 **A Materialist Resolution to the Hard Problem of Consciousness**
-**Joshua Craig Pace** | January 2026
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://img.shields.io/badge/DOI-FigShare-blue)](https://doi.org/10.6084/m9.figshare.31081801)
@@ -10,7 +9,7 @@
 
 ## Overview
 
-The **Language of Stress** proposes that consciousness emerges from valenced tension dynamics in self-maintaining systems under prioritization pressure. This framework resolves the Hard Problem by showing that phenomenal experience is not mysterious emergence but architectural necessity—it's what prioritization *feels like* from inside a system defending its own coherence.
+**The Language of Stress** (Pace, J. C. 2026) proposes that consciousness emerges from valenced tension dynamics in self-maintaining systems under prioritization pressure. This framework resolves the Hard Problem by showing that phenomenal experience is not mysterious emergence but architectural necessity—it's what prioritization *feels like* from inside a system defending its own coherence.
 
 **Core Insight:** When a brain must allocate limited resources among competing demands (hunger, social threats, deadlines, moral conflicts), it needs a common currency to compare fundamentally different types of urgency. That common currency is **phenomenal intensity**—the feeling of how much something matters.
 
