@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://img.shields.io/badge/DOI-FigShare-blue)](https://doi.org/10.6084/m9.figshare.31081801)
+[![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0008-0046-440X) https://orcid.org/0009-0008-0046-440X
 
 ---
 
@@ -193,6 +194,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## Contact
 
 **Joshua Craig Pace**
+[![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0008-0046-440X) https://orcid.org/0009-0008-0046-440X
+
 - 📧 Email: josh@languageofstress.com
 - 🌐 Website: https://languageofstress.com
 - 📄 FigShare: https://doi.org/10.6084/m9.figshare.31081801
