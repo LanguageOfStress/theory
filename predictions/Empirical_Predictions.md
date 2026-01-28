@@ -1,3 +1,21 @@
+**Title:** The Language of Stress: Empirical Claims and Predictions
+
+**Description:**
+Comprehensive set of falsifiable empirical predictions distinguishing the Language of Stress from competing consciousness theories. Includes specific experimental designs testing self-model fragmentation effects, attention capture patterns, rigidity dysfunction in mental pathology, psychedelic mechanisms, and consciousness requirements in artificial systems. Provides measurable hypotheses with predicted outcomes and implications for theory validation or revision.
+
+**Keywords:**
+falsifiable predictions, experimental design, consciousness research, empirical testing, dissociative identity disorder, attention experiments, mental health research, psychedelic research, AI consciousness tests, scientific methodology, hypothesis testing, neuroscience experiments, theory validation
+
+**Author:**
+Joshua Craig Pace
+https://orcid.org/0009-0008-0046-440X
+
+**Published:**
+January 2026
+
+
+---
+
 # **The Language of Stress**
 
 ## **Empirical Claims and Predictions**

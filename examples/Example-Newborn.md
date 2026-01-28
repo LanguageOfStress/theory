@@ -1,8 +1,19 @@
-title: Example of the Language of Stress: The Newborn
-author: Joshua Craig Pace
-date: 01-26-2026
+**Title:** Example of the Language of Stress: The Newborn
 
+**Description:**
+Illustrative scenario demonstrating how value emerges from tension and relief dynamics in the simplest conscious system—a newborn infant. Shows how repeated patterns of discomfort (cold) and relief (warm blanket) substantiate value assignments in the developing Value Topography. Exemplifies foundational principles: that organisms don't start with innate value knowledge but build it through experience, and that relief from tension is how goodness is "known" rather than computed.
 
+**Keywords:**
+value emergence, infant development, tension relief, Value Topography formation, learning mechanisms, affective grounding, phenomenal experience, developmental psychology, consciousness development, embodied cognition, thermal regulation, homeostasis
+
+**Author:**
+Joshua Craig Pace
+https://orcid.org/0009-0008-0046-440X
+
+**Published:**
+January 2026
+
+---
 
 # The Newborn and the Blanket
 

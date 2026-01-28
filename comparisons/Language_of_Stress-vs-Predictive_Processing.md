@@ -1,7 +1,20 @@
-title: Language of Stress (LoS) vs. Predictive Processing (PP/FEP)
-author: Joshua Craig Pace
-date: 01-26-2026
+**Title:** Language of Stress (LoS) vs. Predictive Processing (PP/FEP)
+**Description:**
+Detailed comparison between the Language of Stress framework and Predictive Processing (PP) / Free Energy Principle theories. Examines how LoS builds upon PP's prediction error minimization while fundamentally reframing consciousness as arising from value-laden tension rather than pure information processing. Highlights key differences in explaining phenomenal experience, emotional valence, attention capture, and mental pathology.
 
+**Keywords:**
+predictive processing, free energy principle, prediction error, Karl Friston, Mark Solms, tension dynamics, value assessment, phenomenal experience, affective consciousness, attention mechanisms, mental health, theoretical comparison, consciousness theories
+
+**Author:**
+Joshua Craig Pace
+https://orcid.org/0009-0008-0046-440X
+
+**Published:**
+January 2026
+
+
+
+---
 
 # Predictive Processing & Free Energy:
 

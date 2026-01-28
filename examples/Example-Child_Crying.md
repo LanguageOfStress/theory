@@ -1,3 +1,21 @@
+**Title:** Example of the Language of Stress: The Faint Sound of Your Child Crying
+
+**Description:**
+Powerful example showing why self-relevant weak signals dominate attention over stronger but self-irrelevant stimuli. Explains how a parent immediately orients to their child's distant cry despite being in a loud, crowded environment. Demonstrates the principle that attention allocation is determined by self-relevance × intensity rather than absolute signal strength—illustrating the cocktail party effect through the lens of defended self-architecture.
+
+**Keywords:**
+attention capture, cocktail party effect, self-relevance, selective attention, parental bonding, signal detection, attention mechanisms, parent-child attachment, self-model integration, auditory attention, protective responses, priority allocation
+
+**Author:**
+Joshua Craig Pace
+https://orcid.org/0009-0008-0046-440X
+
+**Published:**
+January 2026
+
+
+---
+
 # **The Faint Sound of Your Child Crying:**
 
 # **Self-Relevance and Attention**

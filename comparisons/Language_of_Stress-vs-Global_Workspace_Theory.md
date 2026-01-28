@@ -1,8 +1,19 @@
-title: Language of Stress (LoS) vs. Global Workspace Theory (GWT)
-author: Joshua Craig Pace
-date: 01-26-2026
+**Title:** Language of Stress (LoS) vs. Global Workspace Theory (GWT)
 
+**Description:**
+Comparative analysis of the Language of Stress and Global Workspace Theory (GWT). Explores how LoS extends GWT's workspace broadcasting model by adding value-based prioritization and self-relevance as core organizing principles. Demonstrates how LoS explains workspace access selection, binding problem resolution, and unity of consciousness through the Archetype of Self rather than pure competition for broadcast capacity.
 
+**Keywords:**
+global workspace theory, Bernard Baars, Stanislas Dehaene, consciousness broadcast, workspace access, attention selection, binding problem, self-relevance, prioritization, cognitive architecture, unified consciousness, theoretical synthesis
+
+**Author:**
+Joshua Craig Pace
+https://orcid.org/0009-0008-0046-440X
+
+**Published:**
+January 2026
+
+---
 
 # Global Workspace Theory: Where We Converge and Diverge
 

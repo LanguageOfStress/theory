@@ -1,8 +1,19 @@
-title: Example of the Language of Stress: The Sports Fan
-author: Joshua Craig Pace
-date: 01-26-2026
+**Title:** Example of the Language of Stress: The Sports Fan
 
+**Description:**
+Vivid example explaining the unity of consciousness through a sports fan watching their team in a championship game. Demonstrates how diverse information streams (visual game feed, audio commentary, physical sensations, social awareness) integrate into a single unified phenomenal field organized around self-relevance. Illustrates why consciousness cannot be fragmented into separate modules—the Self provides the integrating structure that binds all experience together.
 
+**Keywords:**
+unity of consciousness, binding problem, self-relevance, integrated experience, phenomenal unity, attention mechanisms, emotional investment, sports psychology, conscious integration, information binding, experiential coherence
+
+**Author:**
+Joshua Craig Pace
+https://orcid.org/0009-0008-0046-440X
+
+**Published:**
+January 2026
+
+---
 
 # The Sports Fan: Unity of Consciousness
 

@@ -1,3 +1,14 @@
+**Title:** Solving the Hard Problem of Consciousness
+
+**Author:**
+Joshua Craig Pace
+https://orcid.org/0009-0008-0046-440X
+
+**Published:**
+January 2026
+
+---
+
 # Solving the Hard Problem of Consciousness
 
 **Why Phenomenal Experience Is Necessary, Not Mysterious**

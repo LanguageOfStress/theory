@@ -1,9 +1,23 @@
+**Title:** The Language of Stress: Valenced Tension Dynamics and the Materialist Resolution of the Hard Problem
+
+**Description:**
+The complete theoretical framework proposing that consciousness emerges from valenced tension dynamics in self-maintaining systems under prioritization pressure. This manuscript presents a materialist resolution to the Hard Problem of Consciousness by demonstrating that phenomenal experience is not mysterious emergence but architectural necessity—what prioritization feels like from inside a system defending its own coherence. Introduces core concepts including Value Topography, Archetypes, the Archetype of Self, and the relationship between tension, stress, and relief in generating conscious experience.
+
+**Keywords:**
+consciousness, hard problem, phenomenal experience, qualia, materialism, value topography, archetypes, self-model, tension dynamics, stress, relief, prioritization, self-relevance, rigidity, integration, unity of consciousness, philosophy of mind, cognitive architecture, affective neuroscience, conscious AI
+
+**Author:**
+Joshua Craig Pace
+https://orcid.org/0009-0008-0046-440X
+
+**Published**
+January 2026
+
+---
+
 # The Language of Stress
 
 **Valenced Tension Dynamics and the Materialist Resolution of the Hard Problem**
-
-Joshua Craig Pace  
-January 2026
 
 ---
 

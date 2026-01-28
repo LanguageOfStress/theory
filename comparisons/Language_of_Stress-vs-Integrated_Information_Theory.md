@@ -1,7 +1,19 @@
-title: Language of Stress (LoS) vs. Integrated Information Theory (IIT)
-author: Joshua Craig Pace
-date: 01-26-2026
+**Title:** Language of Stress (LoS) vs. Integrated Information Theory (IIT)
 
+**Description:**
+Critical comparison between the Language of Stress and Integrated Information Theory (IIT). Analyzes how LoS differs from IIT's phi-based approach by grounding consciousness in value assessment rather than information integration alone. Explains why integration must be organized around a defended self-model to generate unified phenomenal experience, and addresses consciousness gradients, philosophical zombies, and substrate independence.
+
+**Keywords:**
+integrated information theory, IIT, phi measure, Giulio Tononi, Christof Koch, information integration, phenomenal experience, substrate independence, consciousness measures, self-model, value integration, theoretical frameworks, panpsychism debate
+
+**Author:**
+Joshua Craig Pace
+https://orcid.org/0009-0008-0046-440X
+
+**Published:**
+January 2026
+
+---
 
 # Integrated Information Theory: Where We Converge and Diverge
 
