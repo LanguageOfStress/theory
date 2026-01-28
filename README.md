@@ -1,6 +1,6 @@
 # The Language of Stress
 
-**A Materialist Resolution to the Hard Problem of Consciousness**
+**Valenced Tension Dynamics and the Materialist Resolution of the Hard Problem**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://img.shields.io/badge/DOI-FigShare-blue)](https://doi.org/10.6084/m9.figshare.31081801)
