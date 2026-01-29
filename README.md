@@ -90,6 +90,7 @@ Then read some examples:
 1. [**The Newborn and the Blanket**](examples/Example-Newborn.md) - How value emerges from tension/relief
 2. [**The Sports Fan**](examples/Example-Sports_Fan.md) - Unity of consciousness explained
 3. [**Your Child Crying**](examples/Example-Child_Crying.md) - Why self-relevance dominates attention
+4. [**The Kitchen Knives**](examples/Example-Kitchen_Knives.md) - How the brain determines truth
 
 **Want the full theory?** Read the [**Main Manuscript**](manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
 
