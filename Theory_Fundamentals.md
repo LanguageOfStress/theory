@@ -1,7 +1,7 @@
 **Title:** Language of Stress: Theory Fundamentals
 
 **Description:**
-Comparative analysis of the Language of Stress and Global Workspace Theory (GWT). Explores how LoS extends GWT's workspace broadcasting model by adding value-based prioritization and self-relevance as core organizing principles. Demonstrates how LoS explains workspace access selection, binding problem resolution, and unity of consciousness through the Archetype of Self rather than pure competition for broadcast capacity.
+Why consciousness must exist: Mathematical framework explaining phenomenal experience through tension dynamics. Includes testable predictions.
 
 **Author:**
 Joshua Craig Pace
