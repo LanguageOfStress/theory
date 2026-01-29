@@ -74,7 +74,10 @@ theory/
 
 ## Quick Start
 
-**New to this theory?** Start with the examples:
+**New to this theory?** 
+Start with the fundamentals: [**Theory_Fundamentals**](Theory_Fundamentals.md) - Why this theory should be taken seriously
+
+Then read some examples:
 
 1. [**The Newborn and the Blanket**](examples/Example-Newborn.md) - How value emerges from tension/relief
 2. [**The Sports Fan**](examples/Example-Sports_Fan.md) - Unity of consciousness explained
