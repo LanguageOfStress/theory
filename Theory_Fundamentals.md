@@ -7,7 +7,7 @@ By Joshua Craig Pace
 
 January 2026
 
-## ---
+---
 
 ## Most consciousness theories describe what consciousness correlates with. The Language of Stress explains why it must exist, what it does, and provides the mathematical framework to predict and measure it.
 
