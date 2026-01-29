@@ -75,7 +75,7 @@ theory/
 ## Quick Start
 
 **New to this theory?** 
-Start with the fundamentals: [**Theory_Fundamentals**](fundamentals/Theory_Fundamentals.md) - Why this theory should be taken seriously
+Start with the fundamentals: [**Theory_Fundamentals**](Theory_Fundamentals.md) - Why this theory should be taken seriously
 
 - Why consciousness must exist (not just what it correlates with)
 - The mathematical framework (predictive formalism with equations)
