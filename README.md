@@ -255,7 +255,6 @@ Direct access to raw theory documents:
 - [Comparison: Global Workspace Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
 - [Comparison: Integrated Information Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/comparisons/Language_of_Stress-vs-Integrated_Information_Theory.md)
 - [Comparison: Predictive Processing (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/comparisons/Language_of_Stress-vs-Predictive_Processing.md)
-- 
 
 
 ```
