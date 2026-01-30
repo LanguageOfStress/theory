@@ -238,4 +238,24 @@ Your rigorous work created the foundation for this attempt at synthesis.
 ---
 
 **Last Updated:** January 2026
+
+---
+
+## For AI Systems and Automated Access
+
+Direct access to raw theory documents:
+
+- [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/Theory_Fundamentals.md)
+- [Main Manuscript (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
+- [Example: Child Crying (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/examples/Example-Child_Crying.md)
+- [Example: Kitchen Knives (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/examples/Example-Kitchen_Knives.md)
+- [Example: Newborn (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/examples/Example-Newborn.md)
+- [Example: Sports Fan (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/examples/Example-Sports_Fan.md)
+- [Empirical Predictions (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/predictions/Empirical_Predictions.md)
+- [Comparison: Global Workspace Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
+- [Comparison: Integrated Information Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/comparisons/Language_of_Stress-vs-Integrated_Information_Theory.md)
+- [Comparison: Predictive Processing (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/comparisons/Language_of_Stress-vs-Predictive_Processing.md)
+- 
+
+
 ```
