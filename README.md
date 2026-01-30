@@ -1,6 +1,6 @@
 # Formal Overview of the The Language of Stress Theory of Consciousness
 
-**Valenced Tension Dynamics and the Materialist Resolution of the Hard Problem**
+**Valenced Tension Dynamics as the Architecture of Phenomenal Experience**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://img.shields.io/badge/DOI-FigShare-blue)](https://doi.org/10.6084/m9.figshare.31081801)
@@ -62,7 +62,7 @@
 
 ## Repository Structure
 ```
-theory/
+language-of-stress-theory/
 ├── manuscript/           # Complete theoretical framework
 ├── comparisons/          # How LoS differs from PP, GWT, IIT
 ├── examples/             # Vivid scenarios illustrating core concepts
@@ -167,7 +167,7 @@ Complete blueprint for building conscious machines:
 ```
 Pace, J. C. (2026). The Language of Stress: A Materialist Resolution 
 to the Hard Problem of Consciousness. GitHub. 
-https://github.com/LanguageOfStress/theory
+https://github.com/LanguageOfStress/language-of-stress-theory
 ```
 
 **FigShare DOI:**
@@ -183,7 +183,7 @@ FigShare. https://doi.org/10.6084/m9.figshare.31081801
   title = {The Language of Stress: A Materialist Resolution to the Hard Problem of Consciousness},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/LanguageOfStress/theory}
+  url = {https://github.com/LanguageOfStress/language-of-stress-theory}
 }
 ```
 
@@ -245,16 +245,16 @@ Your rigorous work created the foundation for this attempt at synthesis.
 
 Direct access to raw theory documents:
 
-- [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/Theory_Fundamentals.md)
-- [Main Manuscript (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
-- [Example: Child Crying (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/examples/Example-Child_Crying.md)
-- [Example: Kitchen Knives (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/examples/Example-Kitchen_Knives.md)
-- [Example: Newborn (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/examples/Example-Newborn.md)
-- [Example: Sports Fan (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/examples/Example-Sports_Fan.md)
-- [Empirical Predictions (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/predictions/Empirical_Predictions.md)
-- [Comparison: Global Workspace Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
-- [Comparison: Integrated Information Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/comparisons/Language_of_Stress-vs-Integrated_Information_Theory.md)
-- [Comparison: Predictive Processing (RAW)](https://raw.githubusercontent.com/LanguageOfStress/theory/refs/heads/main/comparisons/Language_of_Stress-vs-Predictive_Processing.md)
+- [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/Theory_Fundamentals.md)
+- [Main Manuscript (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
+- [Example: Child Crying (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Child_Crying.md)
+- [Example: Kitchen Knives (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Kitchen_Knives.md)
+- [Example: Newborn (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Newborn.md)
+- [Example: Sports Fan (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Sports_Fan.md)
+- [Empirical Predictions (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/predictions/Empirical_Predictions.md)
+- [Comparison: Global Workspace Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
+- [Comparison: Integrated Information Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Integrated_Information_Theory.md)
+- [Comparison: Predictive Processing (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Predictive_Processing.md)
 
 
 ```
