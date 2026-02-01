@@ -110,18 +110,15 @@ Expected states (baselines) the brain defends. Deviations create tension proport
 ### The Archetype of Self
 Your most defended structure—everything constitutive of your identity. Deviations threatening the Self create maximum phenomenal pressure.
 
-### Stress vs. Tension
-- **Tension:** Raw deviation × rigidity (the "what")
-- **Stress:** Interpretation of significance (the "so what")—momentum, implications, available remedies
+### Tension
+The product of deviation and rigidity; the geometric "stretching" in the topography when reality doesn't match expectation. The magnitude of tension depends on both how large the deviation is and how rigidly the archetype is held.
 
-### Topographical Distortion
-The impact of tension dynamics on the Value Topography. A function of:
-- **Tension:** deviation × rigidity
-- **Stress:** tension × interpretation × self-relevance
-- Complete Formula: **Topographical Distortion = Deviation × Rigidity × Interpetation × Self-relevance**
+### Stress (Topographical Distortion)
+The phenomenal pressure created when tension is weighted by the brain's interpretation of its significance and its relevance to the Archetype of Self. Determined by: Deviation × Rigidity × Interpretation × Self-Relevance. Valenced — can be aversive (threatening coherence) or appetitive (motivating pursuit of an ideal). The magnitude of the stress is the magnitude of phenomenal urgency.
+- Complete Formula: **Topographical Distortion ∝ Deviation × Rigidity × Interpetation × Self-relevance**
 
 ### Relief
-Resolution of distortions substantiates value. Things reliably providing relief are "known" to be good.
+The resolution of topographical distortion/stress — the phenomenal experience when a deviation is closed, an archetype is restored, or a goal is achieved. The mechanism by which the brain substantiates positive value. Relief from aversive stress feels calming; relief from appetitive stress (eustress) feels validating or invigorating.
 
 ---
 
