@@ -34,7 +34,7 @@ brain—substantiated through the undeniable relief she just experienced.
 considers “normal”—was defined by the warm, confined, quiet womb. This
 understanding is held at a high degree of confidence as it’s been substantiated over
 months of gestation.
-● **Deviation:** Being born introduces the infant to a cold, bright, chaotic world—creating
+● **Stress:** Being born introduces the infant to a cold, bright, chaotic world—creating
 massive deviation from these high-confidence, self-relevant archetypes (high rigidity,
 high tension, high self-relevance), creating intense systemic distress.
 ● **Topographical Distortion:** The magnitude of the distress dominates attention and
@@ -148,7 +148,7 @@ those measurements through phenomenal experience.
 most foundational truth the child's brain will ever discover.
 Key Concepts Illustrated:**
 ● **Archetypes** as baseline expectations formed from experience
-● **Substantiation** through relief—how the brain discovers "truth"
+● **Substantiation** through relief—how the brain discovers (positive) "truth"
 ● **Value as phenomenal** —goodness/badness is felt, not calculated
 ● **Degree matters** —not just "good" but "how good" (magnitude measured relative to
 topographical scope)
