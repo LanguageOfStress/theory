@@ -256,6 +256,7 @@ Direct access to raw theory documents:
 - [Overview Non-Technical (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Overview_Non-Technical.md)
 - [What This Theory Is Not (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/What_This_Theory_Is_Not.md)
 - [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Theory_Fundamentals.md)
+- [Solving the Hard Problem (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Solving_The_Hard_Problem.md)
 - [Empirical Predictions (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Empirical_Predictions.md)
 
 **Examples:**
