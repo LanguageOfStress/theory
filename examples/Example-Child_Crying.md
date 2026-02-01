@@ -78,12 +78,11 @@ Any reasonable information-processing system should:
 ### **The Formula That Determines What Captures Consciousness**
 
 * Tension \= Deviation × Rigidity  
-* Stress \= Tension × Interpretation  
-* Topographical Distortion \= Stress × Self-Relevance
+* Topographical Distortion \= Tension × Interpretation x Self-Relevance  
 
 Or:
 
-* **Topographical Distortion \= Deviation × Rigidity × Interpretation × Self-Relevance**
+* **Topographical Distortion (Stress) \= Deviation × Rigidity × Interpretation × Self-Relevance**
 
 This isn't a metaphor. This is the actual mechanism by which your brain determines what dominates your conscious attention.
 
@@ -91,12 +90,13 @@ This isn't a metaphor. This is the actual mechanism by which your brain determin
 
 * **Deviation:** The magnitude of difference between what you expected (the archetype) and what you're experiencing (the outcome).  
 * **Rigidity:** How tightly you're holding or defending that expectation. High rigidity \= maximum sensitivity to deviations.  
-* **Interpretation:** Your intuitive assessment of what the deviation *means*—what causal chain might follow, how bad the implications could be. This is where "making mountains out of molehills" happens—when interpretation magnifies a small deviation into perceived catastrophe.  
+* **Interpretation:** Your intuitive assessment of what the deviation *means*—what causal chain might follow, how bad (or good) the implications could be. This is where "making mountains out of molehills" happens—when interpretation magnifies a small deviation into perceived catastrophe.  
 * **Self-Relevance:** How deeply the threatened archetype is integrated into your Archetype of Self. Threats to things nested within your identity create exponentially greater distortion.
 
 Let's calculate the topographical distortion for each signal: 
 
 ### **The Conversation (Strong Signal, Small Distortion)**
+**Signal Strength: Strong, clear**
 
 **Deviation: Small to Moderate**
 
@@ -131,12 +131,11 @@ Small-Moderate deviation × Low-Moderate rigidity × Low interpretation × Low-M
 **Result:** The conversation occupies your workspace, creates gentle ripples across your Value Topography, holds attention adequately, but doesn't dominate consciousness with overwhelming urgency. 
 
 ### **The Faint Cry (Weak Signal, Massive Distortion)**
+**Signal Strength (acoustically): Small, weak**
 
-**Deviation: Small (acoustically)**
+**Deviation (from expected child behavior): Low to Moderate**
 
-* The sound itself is barely perceptible  
-* Creates minimal acoustic deviation from background noise  
-* Informationally sparse—just a faint sound
+* A child crying isn't exactly unusual behavior
 
 **Rigidity: MAXIMUM**
 
@@ -281,9 +280,11 @@ Why the difference?
 
 **Stranger's child crying:**
 
-**Deviation: Large (acoustically)**
+**Signal (acoustically): Strong, clear, Loud**
 
-* Much louder, clearer, more present than your child's faint cry
+**Deviation (from expected child behavior): Low**
+
+* Children cry, often
 
 **Rigidity: Low**
 
@@ -804,7 +805,7 @@ The formula:
 
 When you hear your child's faint cry:
 
-* **Deviation:** Small (barely audible)  
+* **Deviation:** Small from expected behavior (children cry)  
 * **Rigidity:** Maximum (child-safety always defended)  
 * **Interpretation:** Massive (cascade of catastrophic possibilities)  
 * **Self-Relevance:** Maximum (child nested deeply in Self)
