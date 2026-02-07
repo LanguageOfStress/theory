@@ -40,7 +40,7 @@ Read [**Solving The Hard Problem**](theory/Solving_The_Hard_Problem.md) - In dep
 Browse [**Examples**](examples/) - Vivid scenarios illustrating core concepts
 
 **Want to dive into the conceptual backdrop of the theory?**
-Explore [**Extended Explorations**](manuscript/) - Original pre-formalization conceptualization of the theory. Non-academic, broader in scope.
+Explore [**Extended Explorations**](manuscript/Extended_Explorations.md) - Original pre-formalization conceptualization of the theory. Non-academic, broader in scope.
 
 ---
 
