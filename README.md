@@ -39,6 +39,9 @@ Read [**Solving The Hard Problem**](theory/Solving_The_Hard_Problem.md) - In dep
 **Want to see it in action?**
 Browse [**Examples**](examples/) - Vivid scenarios illustrating core concepts
 
+**Want to dive into the conceptual backdrop of the theory?**
+Explore [**Extended Explorations**](manuscript/) - Original pre-formalization conceptualization of the theory. Non-academic, broader in scope.
+
 ---
 
 ## Open Science with Protected Implementation
@@ -107,7 +110,7 @@ language-of-stress-theory/
 ├── examples/            # Intuitive scenarios illustrating concepts
 ├── technical/           # PTRA architecture specifications
 ├── applications/        # Real-world applications of the theory
-└── manuscript/          # Complete theoretical manuscript
+└── manuscript/          # Original conceptualization of the theory (pre-formalization)
 ```
 
 ---
@@ -274,12 +277,6 @@ Pace, J. C. (2026). The Language of Stress: The Architecture of Phenomenal Exper
 https://github.com/LanguageOfStress/language-of-stress-theory
 ```
 
-**FigShare DOI:**
-```
-Pace, J. C. (2026). The Language of Stress [Preprint]. 
-FigShare. https://doi.org/10.6084/m9.figshare.31081801
-```
-
 **BibTeX:**
 ```bibtex
 @misc{pace2026language,
@@ -314,7 +311,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 - 📧 Email: josh@languageofstress.com
 - 🌐 Website: https://languageofstress.com
-- 📄 FigShare: https://doi.org/10.6084/m9.figshare.31081801
 - 📊 OSF Project: https://osf.io/tpsrv (Preregistrations, data, supplementary materials)
 
 ---
@@ -374,4 +370,4 @@ Direct access to raw theory documents:
 - [Mental Health: Clinical Applications and Treatment Implications (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/applications/Mental_Health.md)
 
 **Complete Manuscript:**
-- [Main Manuscript (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
+- [Main Manuscript (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/manuscript/Extended_Explorations.md)
