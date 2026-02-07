@@ -1,4 +1,4 @@
-# Formal Overview of the The Language of Stress (LoS)
+# Formal Overview of The Language of Stress Theory (LoS)
 
 **The Language of Stress: A Value-Primitive Theory of Consciousness**
 
