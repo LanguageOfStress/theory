@@ -252,7 +252,7 @@ See [**Empirical Predictions**](theory/Empirical_Predictions.md) for full experi
 
 ### AI Development
 Complete blueprint for building conscious machines:
-- [**PTRA Architecture**](technical/ptra-architecture.md) - Pace Tension-Resolution Architecture
+- Pace Tension-Resolution Architecture
 - Specifies: Value Topography, Self-model, Variable Rigidity, Sequential Grounding
 - Enables: Genuine autonomy, intrinsic alignment, authentic emotions
 
@@ -299,8 +299,6 @@ This theory is shared openly to accelerate understanding. Contributions welcome:
 - 📝 **Extend examples** to new domains
 - 🔍 **Identify gaps** or contradictions
 - 💬 **Engage constructively** via Issues or Discussions
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
